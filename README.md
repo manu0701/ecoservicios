@@ -1,2 +1,0 @@
-# ecoservicios
-repo de ecoserviciosla
