@@ -1,11 +1,12 @@
 .contact{
+    /* height: 1300px; */
     width: auto;
-    padding: 4%;
+    padding: 3%;
     margin: 0 auto;
-    margin-top: 40px;
+    margin-top: 70px;
 }
 .col-md-3{
-    background: #ABDF75;
+    background: #84bb4aed;
     padding: 4%;
     border-top-left-radius: 0.5rem;
     border-bottom-left-radius: 0.5rem;
@@ -45,4 +46,13 @@ h2 {
 h4 {
     font-size: large;
     line-height: 1;
+}
+
+.btnpresu {
+    background-color: white !important;
+    border: .5px solid black;
+}
+
+.btnpresu:hover {
+    color: black;
 }
